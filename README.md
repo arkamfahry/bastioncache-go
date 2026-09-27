@@ -19,7 +19,7 @@ It provides a comprehensive set of features to enhance the reliability and perfo
 
 ## Installation
 
-To install SuperCache Go, use the following command:
+To install BastionCache Go, use the following command:
 
 ```bash
 go get github.com/arkamfahry/bastioncache-go
