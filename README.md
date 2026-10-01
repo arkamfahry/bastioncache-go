@@ -22,7 +22,7 @@ It provides a comprehensive set of features to enhance the reliability and perfo
 To install BastionCache Go, use the following command:
 
 ```bash
-go get github.com/arkamfahry/bastioncache-go
+go get github.com/pixeldump/bastioncache-go
 ```
 
 ## Usage
@@ -38,7 +38,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/arkamfahry/bastioncache-go"
+	"github.com/pixeldump/bastioncache-go"
 	"github.com/redis/go-redis/v9"
 )
 
@@ -151,7 +151,7 @@ import (
 	"log"
 	"time"
 
-	"github.com/arkamfahry/bastioncache-go"
+	"github.com/pixeldump/bastioncache-go"
 	"github.com/redis/go-redis/v9"
 )
 
